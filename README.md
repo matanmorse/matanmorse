@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
     <a href="mailto: matanmorse@gmail.com"><img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
-    <a href="https://discordapp.com/users/355892352310575128"><img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/></a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=matanmorse&style=flat-square&color=blue" alt="Profile Views Badge"/>
 </div>
